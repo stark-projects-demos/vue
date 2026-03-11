@@ -8,11 +8,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@stark-lab-inc/stark-accessibility-vue": "^0.1.0",
     "eslint": "^9.39.1",
     "vue": "^3.4.0"
   },
   "devDependencies": {
+    "@stark-lab-inc/stark-accessibility-vue": "^0.1.1",
     "@vitejs/plugin-vue": "^5.0.0",
     "vite": "^5.0.0"
   }
