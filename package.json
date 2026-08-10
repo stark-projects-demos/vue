@@ -12,7 +12,7 @@
     "vue": "^3.4.0"
   },
   "devDependencies": {
-    "@stark-lab-inc/stark-accessibility-vue": "^0.1.1",
+    "@stark-lab-inc/stark-accessibility-vue": "^1.0.0",
     "@vitejs/plugin-vue": "^5.0.0",
     "vite": "^5.0.0"
   }
